@@ -17,7 +17,7 @@ I'm passionate tech enthusiast and data wizard. My journey in the world of data 
 
 
 ## 🛠 Technical Toolkit
-- **Languages & Tools**: Python, SQL, Java, R, TensorFlow, Keras
+- **Languages & Tools**: Python, SQL, NoSQL, R, JAVA
 - **Frameworks & Platforms**: Power BI, Tableau, AWS, Azure, Hive, Hbase, Hadoop, Redshift, Oracle
 
 ## 🌱 I'm Open To
@@ -32,6 +32,7 @@ I'm passionate tech enthusiast and data wizard. My journey in the world of data 
 ---
 
 🔗 **Let's Connect!**  
+- [Linktree](https://linktr.ee/manitapasi)  
 - [LinkedIn](https://www.linkedin.com/in/manitapasi)  
 - [GitHub](https://github.com/manitapasi)  
 - [Portfolio](https://manitapasi.com)
