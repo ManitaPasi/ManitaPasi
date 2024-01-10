@@ -1,5 +1,5 @@
 
-# Manita Pasi 
+# I'm Manita Pasi 
 
 🌐 **From**: United States 🇺🇸  
 🎓 **Education**: Master of Science in Information Systems, Northeastern University, Boston  
