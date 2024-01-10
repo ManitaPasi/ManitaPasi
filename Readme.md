@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-Hello! I'm Manita, a passionate tech enthusiast and data wizard. My journey in the world of data has been both exciting and transformative. With a Master's degree from Northeastern University, I've delved deep into the realms of data science, data analysis, and machine learning. 
+I'm passionate tech enthusiast and data wizard. My journey in the world of data has been both exciting and transformative. With a Master's degree from Northeastern University, I've delved deep into the realms of data science, data analysis, and machine learning. 
 
 ## 💡 Professional Highlights
 - **Wayfair, Boston**: Revolutionized data analytics as an IT Software Engineer Co-op, where I brought data to life through Power BI and Tableau dashboards.
