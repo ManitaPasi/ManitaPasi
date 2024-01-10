@@ -1,7 +1,7 @@
 
 # I'm Manita Pasi 
 
-🌐 **From**: United States 🇺🇸  
+🌐 **From**: Boston, United States 🇺🇸  
 🎓 **Education**: Master of Science in Information Systems, Northeastern University, Boston  
 📚 **Background**: Bachelor of Engineering in Information Technology, Mumbai University, India
 
