@@ -34,6 +34,6 @@ I'm passionate tech enthusiast and data wizard. My journey in the world of data 
 - [Linktree](https://linktr.ee/manitapasi)  
 - [LinkedIn](https://www.linkedin.com/in/manitapasi)  
 - [GitHub](https://github.com/manitapasi)  
-- [Portfolio](https://manitapasi.com)
+- [Portfolio](https://ManitaPasi.github.io)
 
 ---
