@@ -16,8 +16,10 @@ I'm passionate tech enthusiast and data wizard. My journey in the world of data 
 - **Chegg, India**: Embraced the role of a Data Analyst Intern, harnessing Python and SQL to enhance operational efficiency.
 
 ## 🛠 Technical Toolkit
-- **Languages & Tools**: Python, SQL, NoSQL, R, JAVA
-- **Frameworks & Platforms**: Power BI, Tableau, AWS, Azure, Hive, Hbase, Hadoop, Redshift, Oracle
+- **Languages & Tools**: Python, SQL, R, Scala, PySpark, MATLAB
+- **Frameworks & Platforms**: Power BI, Tableau, Google BigQuery, Scikit-Learn, Keras, TensorFlow, Apache Spark
+- **Developer & Big Data Tools**: Git, Docker, Jenkins, AWS, Azure, Hadoop, Hive, Kafka, Redshift
+- **Certifications**: IIBA Certified Business Analysis Professional, PMI Professional in Business Analysis, Six Sigma: Black Belt, AWS Data Analytics
 
 ## 🌱 I'm Open To
 - Roles in **Data Science**, **Business Analysis**, **Machine Learning**
