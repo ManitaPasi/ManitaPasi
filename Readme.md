@@ -25,8 +25,7 @@ I'm passionate tech enthusiast and data wizard. My journey in the world of data 
 - Opportunities to blend **Technology** and **Business Insights**
 
 ## 🌟 Fun Facts
-- I'm fascinated by **Airplanes**.
-- Love **Flying planes**.
+- I'm fascinated by **Airplanes** and love flying them.
 
 ---
 
