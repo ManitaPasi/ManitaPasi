@@ -22,8 +22,7 @@ I'm passionate tech enthusiast and data wizard. My journey in the world of data 
 - **Certifications**: IIBA Certified Business Analysis Professional, PMI Professional in Business Analysis, Six Sigma: Black Belt, AWS Data Analytics
 
 ## 🌱 I'm Open To
-- Roles in **Data Science**, **Business Analysis**, **Machine Learning**
-- Collaborations that push the envelope in **Data Analytics**
+- Roles in **Data Analysis**, **Business Analysis**, **Data Science**
 - Opportunities to blend **Technology** and **Business Insights**
 
 ## 🌟 Fun Facts
