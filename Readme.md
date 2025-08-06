@@ -12,7 +12,6 @@ I'm passionate tech enthusiast and data wizard. My journey in the world of data 
 
 ## 💡 Professional Highlights
 - **Wayfair, Boston**: Revolutionized data analytics as an IT Software Engineer Co-op, where I brought data to life through Power BI and Tableau dashboards.
-- **Bedi Enterprises, India**: As an Analyst, I delved into the complexities of the building materials market, extracting actionable insights that shaped procurement and distribution strategies.
 - **Chegg, India**: Embraced the role of a Data Analyst Intern, harnessing Python and SQL to enhance operational efficiency.
 
 ## 🛠 Technical Toolkit
@@ -31,9 +30,6 @@ I'm passionate tech enthusiast and data wizard. My journey in the world of data 
 ---
 
 🔗 **Let's Connect!**  
-- [Linktree](https://linktr.ee/manitapasi)  
 - [LinkedIn](https://www.linkedin.com/in/manitapasi)  
-- [GitHub](https://github.com/manitapasi)  
-- [Portfolio](https://manitapasi.github.io/ )
 
 ---
